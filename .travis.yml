@@ -8,7 +8,7 @@ script:
   #- env GOOS=windows GOARCH=amd64 go build -o terraform-provider-bluecat-window-amd64
   #- echo "Build Terraform Provider Bluecat for Linux"
   #- env GOOS=linux GOARCH=amd64 go build -o terraform-provider-bluecat
-  #- echo "Build Terraform Provider Bluecat for MacOS"
+  #- echo "Build Terraform Provider Bluecat for Mac"
   #- env GOOS=darwin GOARCH=amd64 go build -o terraform-provider-bluecat-mac-amd64
 
 
